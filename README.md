@@ -1,5 +1,6 @@
 # Masters
- Evaluating the Consequences of Poisoning Attacks on the Reliability of Classification Models and the Role of Contrastive Learning in Improvement
+**Subject** 
+Evaluating the Consequences of Poisoning Attacks on the Reliability of Classification Models and the Role of Contrastive Learning in Improvement
 
  **Objective and Scope of Work:**
  The objective of the thesis is to investigate the impact of poisoning attacks on classification models and to explore strategies for improving classification effectiveness using contrastive learning. The research will include an analysis of various data poisoning techniques and their effects on classification efficiency. Additionally, the thesis will focus on using contrastive learning to attempt to enhance classification results and increase model resilience against such attacks.
